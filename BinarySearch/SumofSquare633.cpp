@@ -31,6 +31,7 @@ bool isPerfectSquare( int n){
         int c = 5;
         bool ans = judgeSquareSum(c);
         cout<<ans;
+         
         
 
 
