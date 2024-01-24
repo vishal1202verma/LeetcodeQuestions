@@ -69,5 +69,6 @@ bool check(int mid, vector<int>& weights, int days){
     cout<<"the minimum capacity of ship will be :";
     cout<<shipWithinDays(weights, days);
     cout<<"vishal verma ji ";
+     
 
     }
