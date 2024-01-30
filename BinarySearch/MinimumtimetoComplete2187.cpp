@@ -53,6 +53,6 @@ using namespace std;
     time.push_back(3);
     cout<<"the mimimum time to complete the trips is :";
     cout<<minimumTime(time, totalTrips);
-
+     
 
     }
